@@ -1,0 +1,7 @@
+text,intent
+مرحبا,Greeting
+أريد حجز تذكرة,Book_Ticket
+أريد إلغاء الحجز,Cancel_Booking
+نسيت كلمة المرور,Password_Reset
+كم سعر الاشتراك,Price_Query
+شكرا لك,Thanks
